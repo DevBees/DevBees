@@ -1,4 +1,4 @@
-<img src="bannerresize.png" />
+<img src="banner.png" />
 
 
 <br>
